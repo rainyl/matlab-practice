@@ -1,0 +1,4 @@
+clear;
+[myinfo,color]=config();
+
+
